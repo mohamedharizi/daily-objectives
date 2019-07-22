@@ -15,5 +15,5 @@
   * [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir)
   * [x] Comprendre le principe des options dans les commandes
 * [x] Découverte de Vim (Vimtutor)
-* [ ] Découverte de VS Code
+* [x] Découverte de VS Code
 * [ ] Choix de son éditeur, configuration et customisation
