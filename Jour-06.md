@@ -9,10 +9,10 @@
     * [x] Images
     * [x] Listes
     * [x] Formatage de texte (italique, souligné, gras)
-    * [x] Code
-    * [x] Citations
-    * [x] Tableaux
-    * [x] Liens
+    * [ ] Code
+    * [ ] Citations
+    * [ ] Tableaux
+    * [ ] Liens
   * [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
 * [ ] Comprendre l'intérêt des raccourcis clavier
 * [ ] Découverte des raccourcis clavier Linux : 

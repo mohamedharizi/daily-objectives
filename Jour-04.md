@@ -8,7 +8,7 @@
 * [x] Comprendre le versionning
 * [x] Comprendre le fonctionnement de Git
   * [x] Comprendre le staging de Git
-  * [] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+  * [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
     * [x] git init
     * [x] git add
     * [x] git status
