@@ -13,7 +13,7 @@
 * [x] Algo : 
   * [x] Comprendre ce qu'est un algorithme
   * [x] Comprendre l'utilité des algorithmes
-  * [ ] Déterminer l'importance de l’étude des algorithmes
+  * [x] Déterminer l'importance de l’étude des algorithmes
 
 * [ ] HTML :
   * [x] Comprendre le fonctionnement des tableaux en HTML5 et savoir les manipuler
