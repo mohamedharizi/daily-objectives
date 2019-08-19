@@ -3,12 +3,12 @@
 ## Lundi 19/08/2019
 
 
-* [ ] Javascript :
-  * [ ] Comprendre la comparaison en Javascript (https://javascript.info/comparison) :
-    * [ ] Comprendre comment sont comparés les strings ?
-    * [ ] Comprendre quelle est la différence entre `==` et `===` ?
-    * [ ] Comprendre comment sont comparées des valeurs de types différents ?
-    * [ ] Comprendre le mécanisme de comparaison avec `null` et `undefined`
+* [x] Javascript :
+  * [x] Comprendre la comparaison en Javascript (https://javascript.info/comparison) :
+    * [x] Comprendre comment sont comparés les strings ?
+    * [x] Comprendre quelle est la différence entre `==` et `===` ?
+    * [x] Comprendre comment sont comparées des valeurs de types différents ?
+    * [x] Comprendre le mécanisme de comparaison avec `null` et `undefined`
 
 * [ ] Algo (Révision) : 
   * [ ] Revoir le mécanisme de tri par insertion (Insertion Sort)
