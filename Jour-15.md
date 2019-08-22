@@ -10,7 +10,7 @@
 * [ x Algo : 
   * [x] Découvrir le tri rapide (Quicksort)
 
-* [ ] CSS : 
+* [x] CSS : 
   * [x] Savoir compiler du SCSS (`sass --watch`)
   * [x] Comprendre le principe et le fonctionnement des variables dans SASS
   * [x] Comprendre l'imbrication dans SASS (Nesting)
