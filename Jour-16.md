@@ -13,4 +13,3 @@
 
 * [x] CSS : 
   * [x] Comprendre l'utilité et le fonctionnement des `mixins` dans SASS
-  * [ ] Comprendre l'utilité et le fonctionnement de l'`extend` dans SASS 
